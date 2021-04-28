@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "88D07173-472C-4D83-9AE8-6742D59FFE3A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "64DC94B3-E23F-44EA-B69B-8CDFC3BBD96F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A4D1E90-5D68-4CBF-AD3D-1EFFB72AC5FF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BytePal/Screens/Authentication/AuthenticationComponents/GoogleLoginButton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "updateMessageHistoryServer(userID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7EAEDEE-E1D6-4A4A-9D35-D00B8F06FD8C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BytePal/Screens/Authentication/AuthenticationComponents/GoogleLoginButton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6318D92A-483B-4B27-B4E2-92C642A1E2E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BytePal/Screens/Authentication/AuthenticationComponents/GoogleLoginButton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "loadMessageServer(message:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3DACF40-06D4-4D76-BDB5-DC9AB407A169"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BytePal/Screens/Authentication/AuthenticationComponents/GoogleLoginButton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "createAgent(id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3DACF40-06D4-4D76-BDB5-DC9AB407A169 - 6ecb0f8034edd30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BytePal.GoogleLoginButton.createAgent(id: Swift.String) -&gt; ()"
+                  moduleName = "BytePal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zain/Desktop/C&apos;s%20Projects/BytePal-IOS-app_fiverr/BytePal/Screens/Authentication/AuthenticationComponents/GoogleLoginButton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "B3DACF40-06D4-4D76-BDB5-DC9AB407A169 - 83be1ba2d0f29947"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in BytePal.GoogleLoginButton.createAgent(id: Swift.String) -&gt; ()"
+                  moduleName = "BytePal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zain/Desktop/C&apos;s%20Projects/BytePal-IOS-app_fiverr/BytePal/Screens/Authentication/AuthenticationComponents/GoogleLoginButton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "300">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
